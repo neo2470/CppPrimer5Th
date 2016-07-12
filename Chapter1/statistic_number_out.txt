@@ -1,0 +1,4 @@
+42 occurs : 5
+55 occurs : 2
+62 occurs : 1
+100 occurs : 3
